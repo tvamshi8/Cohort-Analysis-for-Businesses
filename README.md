@@ -6,7 +6,7 @@ Cohort analysis is valuable for businesses as it allows them to understand user 
 The first step is to define the cohorts based on a specific characteristic or event. For example, in an e-commerce platform, cohorts could be defined based on the month of a user’s first purchase.
 Gather relevant data for analysis.
 Determine the time intervals you want to analyze.
- Group users into cohorts based on the defined characteristic or event.
+Group users into cohorts based on the defined characteristic or event.
 Choose the key performance metrics you want to analyze.
 Calculate the chosen metrics for each cohort over the specified time periods.
 Create visualizations to present your findings effectively.
@@ -18,11 +18,16 @@ Now, let’s get started with the task of Cohort Analysis by importing the neces
 
 <img width="440" alt="image" src="https://github.com/tvamshi8/Cohort-Analysis-for-Businesses/assets/153074595/b1cc8a78-fb35-4393-91cf-8bf250930296">
 
+
+
 Now, let’s have a look at whether the dataset has any null values or not:
+
 
 <img width="165" alt="image" src="https://github.com/tvamshi8/Cohort-Analysis-for-Businesses/assets/153074595/4abfe7e0-9dd9-468a-a77c-33fe492a79fc">
 
 Now, let’s have a look at the datatypes of all the columns in the data:
+
+
 <img width="202" alt="image" src="https://github.com/tvamshi8/Cohort-Analysis-for-Businesses/assets/153074595/20910aa2-3107-4378-9427-b4a04cb33130">
 
 The Date column is in object (string) format. For effective analysis, especially in cohort analysis, we should convert this to a datetime format
